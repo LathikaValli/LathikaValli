@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I am Lathika 👋
 
-<!--
-**LathikaValli/LathikaValli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science Engineering student and a consistent class topper for the past two semesters.  
+I love building things, learning new technologies, and sharing knowledge with others.
 
-Here are some ideas to get you started:
+## 🔎 Current Highlights
+- Working on **IBM 6-week Front-End Web Development Internship** (via Edunet).  
+- Working on **Skills4Future** (4-week internship) — Green Skills & AI project.  
+- Part of **Infosys Pragathi Cohort 6** (Cloud Computing track).  
+- Selected for the **Google Arcade Facilitator Program**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Proficient:** Python, C, SQL  
+- **Learning:** Java, C++, Data Structures & Algorithms  
+- **Other:** Front-end basics, event coordination, public speaking
+
+## 🏆 Achievements & Leadership
+- Winner — *Fruition Idea Presentation* (EICON Club).  
+- Event Coordinator — *Explore Diamond Docs*.  
+- Preparing for **Youth Talk 2025** to improve public speaking.
+
+## ⚡ Projects (click to open)
+- **Portfolio Website** — front-end site showcasing projects.  
+- **Green Skills + AI project** — work-in-progress during internship.  
+*(I’ll add project links and descriptions here soon.)*
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/m-lathika-valli-303419318/  
+- Email: lathikavalli.28csb@licet.ac.in
+
+Thanks for visiting — feel free to explore my repositories below!
