@@ -14,10 +14,9 @@ I love building things, learning new technologies, and sharing knowledge with ot
 - **Learning:** Java, C++, Data Structures & Algorithms  
 - **Other:** Front-end basics, event coordination, public speaking
 
-## 🏆 Achievements & Leadership
-- Winner — *Fruition Idea Presentation* (EICON Club).  
+## 🏆 Achievements & Leadership  
 - Event Coordinator — *Explore Diamond Docs*.  
-- Preparing for **Youth Talk 2025** to improve public speaking.
+- Top 100 in  **Youth Talk 2025**.
 
 ## ⚡ Projects (click to open)
 - **Portfolio Website** — front-end site showcasing projects.  
